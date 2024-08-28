@@ -33,7 +33,7 @@ Apasionada por la ingenieria y disfrutando de una transicion laboral al QA Engin
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://github.com/maria-castillos/maria-castillos/blob/7d251c72161045dd388249dac9554e0e7da10e26/atlassian-jira-logo-large.png-style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA"/>
   </a>
 
 </div>

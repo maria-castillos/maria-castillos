@@ -21,7 +21,7 @@ Apasionada por la ingenieria y disfrutando de una transicion laboral al QA Engin
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-angelica-castillo/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Maria-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-angelica-castillo/)
 
 ---
 

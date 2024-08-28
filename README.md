@@ -15,11 +15,25 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Soy una persona con iniciativa, habilidades de liderazgo, trabajo en equipo, habilidades en el manejo de software, herramientas informáticas, en constante actualización para la adquisición de nuevos conocimientos, proactiva, con facilidad de adaptación a nuevos entornos y me gusta estar en constante aprendizaje, es por esto que realice recientemente un bootcamp de tecnología que me permitió adquirir suficientes conocimientos en diversos lenguajes de programación y en donde pude poner en pracica mis conocimientos en Python,SQL,JIRA,AndroidStudio,Cypress,Pruebas manuales,Pruebas automatizadas Y Postman. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+Apasionada por la ingenieria y disfrutando de una transicion laboral al QA Enginner <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL,Python, Pruebas Manuales, Pruebas automatizadas,Postman y realizando informes de errores con JIRA.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-angelica-castillo/)
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>

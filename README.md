@@ -6,3 +6,7 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=maria-castillos.maria-castillos&color=00cf00" alt=""/>
+ <h1>
+  Hola soy Maria Angelica. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>

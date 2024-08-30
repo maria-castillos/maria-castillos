@@ -11,6 +11,8 @@
 ---
  <div id="header" align="left">
 
+ ### :woman_technologist: Acerca de :
+
 ### :woman_technologist: Sobre mí :
 Apasionada por la ingenieria y disfrutando de una transicion laboral al QA Enginner <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
